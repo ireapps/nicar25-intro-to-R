@@ -20,19 +20,11 @@ Learning a programming language requires some investment of time. We're going to
 4. Use AI tools to help generate and troubleshoot code. 
 5. Leave with resources to learn more.
 
-### Scripts
-1. [Introduction-to-R.html](Introduction-to-R.html) (explains set up and basic terminology)
-2. [first-r-notebook.Rmd](first-r-notebook.Rmd) (start here to practice working in notebooks)
-3. [analysis-in-tidyverse.Rmd](analysis-in-tidyverse.Rmd) (explains the main tidyverse functions we use for analysis)
-4. [bloomington-salaries-analysis.Rmd](bloomington-salaries-analysis.Rmd) (practice tidyverse functions, create new columns)
-5. [tidyverse-joins.Rmd](tidyverse-joins.Rmd) (learn how to join tables)
-6. [wnba-exercise-answers.Rmd](wnba-exercise-answers.Rmd) (code to answer the practice questions at the bottom of tidyverse-joins.Rmd)
-
 ### Data
 All the data we'll use is in the [data](data) folder (where you should always keep data!)
 
 ### Additional Materials
 - [Peruse the RStudio Cheatsheets](rstudio_cheatsheets)
-- [Review the primary functions for data analysis](tipsheets/R-Functions.pdf)
+- [Review the primary functions for data analysis](https://ireapps.github.io/nicar25-intro-to-R/tipsheets/R-Functions.html)
 - [Review basic newsroom math formulas](tipsheets/Newsroom-Math-Crib-Sheet.pdf) (h/t Steve Doig)
 - [See the various types of joins you can do in R](https://docs.google.com/presentation/d/1_rlOBML0-cseRSDwNbJljGmpMs2UiteseKoyhr10Y2A/edit?usp=sharing)
