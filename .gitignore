@@ -2,6 +2,9 @@
 .DS_Store
 data/.DS_Store
 
+# run of show for the session
+run-of-show.R
+
 # History files
 .Rhistory
 .Rapp.history
