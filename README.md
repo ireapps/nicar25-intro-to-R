@@ -5,6 +5,7 @@
 ### Class Requirements
 - This material will make sense if you have a good understanding of the basics of data analysis: sorting, filtering and grouping, whether in spreadsheets or in a database manager program.
 - You need the latest version of [R and RStudio installed](https://docs.google.com/document/d/1W7WIIW9UyqOec7rU36EsQqrRvgLJGRf3_dwTcy4YvJM/edit?usp=sharing) to your computer (if you're at a conference, this has already been done for you!)
+- You will need to download [this repo as a zip file](https://github.com/ireapps/nicar25-intro-to-R/archive/refs/heads/main.zip) and unzip it somewhere on your hard drive (like in your Documents folder). Then you can work out of that folder.
 
 ### Brief Introduction
 For this class, we’ll be learning the basics of the R programming language, and interacting with R through RStudio which is an efficient and user-friendly tool. 
