@@ -16,7 +16,7 @@ Learning a programming language requires some investment of time. We're going to
 ### Lesson Plan
 1. Learn how to set things up to make working with R easy and efficient: we'll use R Project files (.RProj) and talk about a standard folder structure for every project.
 2. Import a CSV, an excel file, and some data from the web.
-3. Use R to sort, filter, group, summarize, and join your data tables.
+3. Use R to sort, filter, group, summarize, and graph your data tables.
 4. Use AI tools to help generate and troubleshoot code. 
 5. Leave with resources to learn more.
 
